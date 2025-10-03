@@ -1,1 +1,0 @@
-go mod init example.com/lessons 
